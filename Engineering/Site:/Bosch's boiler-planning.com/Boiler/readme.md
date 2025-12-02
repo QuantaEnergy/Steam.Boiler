@@ -7,3 +7,5 @@ https://www.boiler-planning.com/en/technology/boiler/types.html
 
 Has a detailed diagram of each design!
 - 3-Pass boiler
+
+## [Heat recovery boilers and waste heat recovery](https://www.bosch-industrial.com/global/en/ocs/commercial-industrial/heat-recovery-systems-669519-c/)
