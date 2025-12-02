@@ -5,4 +5,5 @@ https://www.boiler-planning.com/en/technology/boiler/
 # Types:
 https://www.boiler-planning.com/en/technology/boiler/types.html
 
-Has a detailed diagram of the "3 Pass, Shell boiler" Design!
+Has a detailed diagram of each design!
+- 3-Pass boiler
