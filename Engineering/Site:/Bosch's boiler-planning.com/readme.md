@@ -12,3 +12,4 @@ https://www.boiler-planning.com/en/tools/basic-principles-of-water-vapour/water-
 
 ## site:
 https://www.bosch-industrial.com/global/en/commercial-industrial/home/
+- https://www.bosch-industrial.com/global/en/ocs/commercial-industrial/heating-boilers-669447-c/
